@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FBLite.iml" filepath="$PROJECT_DIR$/FBLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FB-Lite.iml" filepath="$PROJECT_DIR$/FB-Lite.iml" />
+      <module fileurl="file://C:\Users\Javier Villalba\AndroidStudioProjects\FB-Lite\FBLite.iml" filepath="C:\Users\Javier Villalba\AndroidStudioProjects\FB-Lite\FBLite.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Javier Villalba\AndroidStudioProjects\FB-Lite\app\app.iml" filepath="C:\Users\Javier Villalba\AndroidStudioProjects\FB-Lite\app\app.iml" />
     </modules>
   </component>
 </project>
