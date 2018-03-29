@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FB Lite</string>
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="notifications">Notifications</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+</resources>
