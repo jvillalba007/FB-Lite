@@ -8,7 +8,7 @@
 </a> 
         </p>
 
-Fast & Light Facebook Web App
+Fast & Lightweight Facebook Web App
 
 Required Android System WebView or Google Chrome Installed
 
